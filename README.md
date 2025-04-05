@@ -55,6 +55,7 @@ These results were visualized in Tableau using:
 
 ### ✅ Conclusion
 You can explore the full dashboard on Tableau Public by following this link.(https://public.tableau.com/app/profile/abdo.mash/viz/tableau_project_portfolio1/Dashboard1?publish=yes)
+
 src of data =(https://github.com/unknown010112/sql_project_covid_19)
 
 This project helped me practice real-world data analysis 🧠  
