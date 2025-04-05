@@ -50,9 +50,11 @@ These results were visualized in Tableau using:
 - Using Tableau to build interactive dashboards
 - Turning data into clear and useful insights
 
----
+--
+
 
 ### ✅ Conclusion
+You can explore the full dashboard on Tableau Public by following this link.(https://public.tableau.com/app/profile/abdo.mash/viz/tableau_project_portfolio1/Dashboard1?publish=yes)
 
 This project helped me practice real-world data analysis 🧠  
 I built a full dashboard showing how COVID-19 spread, affected populations, and how vaccination played a role in recovery 💉
