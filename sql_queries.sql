@@ -1,7 +1,5 @@
 /*
 
-Queries used for Tableau Project (Converted to MySQL)
-
 */
 
 -- 1. 
